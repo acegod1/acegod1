@@ -30,8 +30,6 @@ Go to [DF](https://dialogflow.cloud.google.com/#/login)
 
 > Step 2:
 
- 🤖 Create new agent and [import our project](https://github.com/tomkaX/tomkaX/blob/main/TobyBotSample.zip) 👇🏼
-
 <br>
 <div align ="center">
   <img width="800" height="400" src="https://media.giphy.com/media/2aHg9z5shHnulTX5eN/giphy.gif">
